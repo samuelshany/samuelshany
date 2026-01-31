@@ -6,8 +6,8 @@ Senior Backend Laravel Developer with 4+ years of experience building scalable, 
 
 ## 🚀 About Me
 - 💻 Senior Backend Laravel Developer
-- 🧩 Specialized in **multitenant architectures (single database)**
-- 📊 Experienced in building **ERP, POS, accounting & inventory systems**
+- 🧩 Specialized in **multitenant architectures**
+- 📊 Experienced in building **ERP, POS, accounting , CRM,HR & inventory systems**
 - ⚡ Improved system performance by **60%+**
 - 🏗️ Strong believer in **clean architecture & design patterns**
 - 👥 Team leader with experience in mentoring and code reviews
@@ -29,7 +29,7 @@ Senior Backend Laravel Developer with 4+ years of experience building scalable, 
 
 ### Architecture & Patterns
 - Clean Architecture
-- Repository, Factory, Observer, Pipeline
+- Repository, Factory, Observer, Pipeline,singleton
 
 ### Tools & Workflow
 - Git, GitHub, Bitbucket
@@ -39,11 +39,13 @@ Senior Backend Laravel Developer with 4+ years of experience building scalable, 
 ---
 
 ## 🧠 What I Build
-- 🏢 ERP Systems (Accounting, Inventory, Sales, Purchasing)
+- 🏢 ERP Systems (Accounting, Inventory mangement , Sales, Purchasing)
 - 🛒 Multi-vendor E-commerce Platforms
 - 💳 POS Systems
 - 📈 Business Analytics & Reporting Dashboards
 - 📱 API-driven systems integrated with mobile applications
+- CRM
+- HR 
 
 ---
 
@@ -56,7 +58,7 @@ Senior Backend Laravel Developer with 4+ years of experience building scalable, 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/samuel-hany
+- 💼 LinkedIn: https://www.linkedin.com/in/samuel-hany-9876433a9/
 - 💻 GitHub: https://github.com/samuelshany
 - 📧 Email: samuelhany345@gmail.com
 
