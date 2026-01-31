@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Samuel Hany
 
-<!--
-**samuelshany/samuelshany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Laravel Developer with 4+ years of experience building scalable, high-performance systems, with a strong focus on ERP, POS, accounting, and inventory solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Senior Backend Laravel Developer
+- 🧩 Specialized in **multitenant architectures (single database)**
+- 📊 Experienced in building **ERP, POS, accounting & inventory systems**
+- ⚡ Improved system performance by **60%+**
+- 🏗️ Strong believer in **clean architecture & design patterns**
+- 👥 Team leader with experience in mentoring and code reviews
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- PHP (Laravel)
+- RESTful APIs
+- Multitenancy
+- Queues & Background Jobs
+- Caching & Performance Optimization
+
+### Databases
+- MySQL
+- Database Design & Optimization
+
+### Architecture & Patterns
+- Clean Architecture
+- Repository, Factory, Observer, Pipeline
+
+### Tools & Workflow
+- Git, GitHub, Bitbucket
+- Jira, Slack
+- Agile / Scrum
+
+---
+
+## 🧠 What I Build
+- 🏢 ERP Systems (Accounting, Inventory, Sales, Purchasing)
+- 🛒 Multi-vendor E-commerce Platforms
+- 💳 POS Systems
+- 📈 Business Analytics & Reporting Dashboards
+- 📱 API-driven systems integrated with mobile applications
+
+---
+
+## 📌 Current Focus
+- Advanced Laravel Multitenancy
+- System Scalability & Performance
+- Large-scale ERP architectures
+- Improving developer experience & code quality
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/samuel-hany
+- 💻 GitHub: https://github.com/samuelshany
+- 📧 Email: samuelhany345@gmail.com
+
+---
+
+⭐ *If you find my work useful, feel free to star my repositories!*
